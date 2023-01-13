@@ -158,12 +158,12 @@ input {
 .middle-sec {
   width: 70%;
   height: 100vh;
-  background-color: blue;
+
 }
 .img-sec {
   height: 25vh;
   width: 90%;
-  background-color: bisque;
+  
   display: flex;
   margin-left: 25px;
   justify-content: center;
@@ -192,7 +192,6 @@ a {
 .co-middle {
   width: 90%;
   height: 90vh;
-  background-color: purple;
   margin-top: 10px;
   margin-left: 25px;
   display: flex;
@@ -200,14 +199,13 @@ a {
 .sectn-1 {
   width: 50%;
   height: 87vh;
-  background-color: aqua;
   font-size: 16px;
   line-height: 24px;
 }
 .sectn-2 {
   width: 50%;
   height: 87vh;
-  background-color: green;
+
   border-left: 1px solid rgb(196, 190, 190);
 }
 .sectn-1 a div img {
@@ -251,7 +249,7 @@ a {
 .sec-middle {
   width: 90%;
   height: 300vh;
-  background-color: burlywood;
+  
   margin-top: 10px;
   margin-left: 25px;
 }
@@ -319,4 +317,15 @@ video p {
 .conten {
   padding-left: 20px;
   font-size: 14px;
+}
+.red-content{
+  margin: 0 68px 0 30px;
+  font-size: 14px;
+  line-height: 18px;
+}
+.about{
+  padding-bottom: 20px;
+}
+.born{
+  padding-bottom: 20px;
 }
